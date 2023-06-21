@@ -1,0 +1,33 @@
+﻿using Microsoft.EntityFrameworkCore;
+using SocialMedia.Query.Domain.Entities;
+
+namespace SocialMedia.Query.Infrastructure.DataContext
+{
+    public class DatabaseContext : DbContext
+    {
+        public DatabaseContext(DbContextOptions options) : base(options)
+        {
+
+        }
+        public DbSet<PostEntity> Posts { get; set; }
+        public DbSet<CommentEntity> Comments { get; set; }
+    }
+
+    public class DatabaseContextFactory
+    {
+        private readonly Action<DbContextOptionsBuilder> _configureDbContext;
+
+        public DatabaseContextFactory(Action<DbContextOptionsBuilder> configureDbContext)
+        {
+            _configureDbContext = configureDbContext;
+        }
+
+        public DatabaseContext CreateDbContext()
+        {
+            DbContextOptionsBuilder<DatabaseContext> options = new();
+            _configureDbContext(options);
+
+            return new DatabaseContext(options.Options);
+        }
+    }
+}

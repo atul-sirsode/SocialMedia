@@ -1,0 +1,17 @@
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\bin\Debug\net7.0\SocialMedia.Query.Domain.deps.json
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\bin\Debug\net7.0\SocialMedia.Query.Domain.dll
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\bin\Debug\net7.0\SocialMedia.Query.Domain.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.csproj.AssemblyReference.cache
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.AssemblyInfoInputs.cache
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.AssemblyInfo.cs
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.csproj.CoreCompileInputs.cache
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.dll
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\refint\SocialMedia.Query.Domain.dll
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\ref\SocialMedia.Query.Domain.dll
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\bin\Debug\net7.0\SocialMedia.Common.dll
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\bin\Debug\net7.0\SocialMedia.Core.dll
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\bin\Debug\net7.0\SocialMedia.Common.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\bin\Debug\net7.0\SocialMedia.Core.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Query\SocialMedia.Query.Domain\obj\Debug\net7.0\SocialMedia.Query.Domain.csproj.CopyComplete

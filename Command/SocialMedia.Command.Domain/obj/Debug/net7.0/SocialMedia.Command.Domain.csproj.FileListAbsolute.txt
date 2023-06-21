@@ -1,0 +1,17 @@
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\bin\Debug\net7.0\SocialMedia.Command.Domain.deps.json
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\bin\Debug\net7.0\SocialMedia.Command.Domain.dll
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\bin\Debug\net7.0\SocialMedia.Command.Domain.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\bin\Debug\net7.0\SocialMedia.Common.dll
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\bin\Debug\net7.0\SocialMedia.Core.dll
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\bin\Debug\net7.0\SocialMedia.Common.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\bin\Debug\net7.0\SocialMedia.Core.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.csproj.AssemblyReference.cache
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.AssemblyInfoInputs.cache
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.AssemblyInfo.cs
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.csproj.CoreCompileInputs.cache
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.csproj.CopyComplete
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.dll
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\refint\SocialMedia.Command.Domain.dll
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\SocialMedia.Command.Domain.pdb
+C:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Domain\obj\Debug\net7.0\ref\SocialMedia.Command.Domain.dll

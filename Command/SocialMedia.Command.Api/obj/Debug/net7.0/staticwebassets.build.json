@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z7DnfPURu+GRAo5EgH/bz+SyfXPf/tXLvi9GuSB0xKU=",
+  "Source": "SocialMedia.Command.Api",
+  "BasePath": "_content/SocialMedia.Command.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

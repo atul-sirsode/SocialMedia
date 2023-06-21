@@ -1,0 +1,15 @@
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\bin\Debug\net7.0\SocialMedia.Common.deps.json
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\bin\Debug\net7.0\SocialMedia.Common.dll
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\bin\Debug\net7.0\SocialMedia.Common.pdb
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\bin\Debug\net7.0\SocialMedia.Core.dll
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\bin\Debug\net7.0\SocialMedia.Core.pdb
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.csproj.AssemblyReference.cache
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.AssemblyInfoInputs.cache
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.AssemblyInfo.cs
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.csproj.CoreCompileInputs.cache
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.csproj.CopyComplete
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.dll
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\refint\SocialMedia.Common.dll
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\SocialMedia.Common.pdb
+C:\WORK\VSPROJECTS\SocialMedia\SocialMedia.Common\obj\Debug\net7.0\ref\SocialMedia.Common.dll
