@@ -2,11 +2,11 @@
 # Social Media
 
 This Project has Microservice CQRS design pattern with strong consistency
-acheive using kafka and mongo db as write database and event store
+achieve using kafka and mongo db as write database and event store
 where as used SQL server for read.
 
-Here in this Solution you'll get Command and Query seperate project, each project has
-sepereate responsibility for respective tasks.
+Here in this Solution you'll get Command and Query separate project, each project has
+separate responsibility for respective tasks.
 
 
 
@@ -17,13 +17,13 @@ sepereate responsibility for respective tasks.
 Clone the project
 
 ```bash
-  git clone https://github.com/atul-sirsode/SocialMedia_CQRS.git
+  git clone https://github.com/atul-sirsode/SocialMedia.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd SocialMedia_CQRS/SocialMedia/docker-compose
+  cd SocialMedia/docker-compose
 ```
 
 run docker compose command

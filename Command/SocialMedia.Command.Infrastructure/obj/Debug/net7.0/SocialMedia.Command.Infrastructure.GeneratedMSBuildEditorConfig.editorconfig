@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SocialMedia.Command.Infrastructure
-build_property.ProjectDir = c:\WORK\VSPROJECTS\SocialMedia\Command\SocialMedia.Command.Infrastructure\
+build_property.ProjectDir = c:\WORK\SocialMedia\Command\SocialMedia.Command.Infrastructure\

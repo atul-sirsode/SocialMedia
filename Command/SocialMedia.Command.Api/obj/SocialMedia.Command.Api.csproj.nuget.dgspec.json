@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj": {}
+    "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj": {}
   },
   "projects": {
-    "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj": {
+    "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj",
+        "projectUniqueName": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj",
         "projectName": "SocialMedia.Command.Api",
-        "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj",
+        "projectPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Api\\SocialMedia.Command.Api.csproj",
         "packagesPath": "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\",
-        "outputPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Api\\obj\\",
+        "outputPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -36,14 +36,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj"
+              "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj"
               },
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj"
+              "c:\\WORK\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj"
               },
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj": {
+    "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj",
+        "projectUniqueName": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj",
         "projectName": "SocialMedia.Command.Domain",
-        "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj",
+        "projectPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj",
         "packagesPath": "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\",
-        "outputPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Domain\\obj\\",
+        "outputPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,11 +140,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj"
+              "c:\\WORK\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj"
               },
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -192,14 +192,14 @@
         }
       }
     },
-    "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj": {
+    "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj",
+        "projectUniqueName": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj",
         "projectName": "SocialMedia.Command.Infrastructure",
-        "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj",
+        "projectPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\",
-        "outputPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\obj\\",
+        "outputPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -224,11 +224,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj"
+              "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Domain\\SocialMedia.Command.Domain.csproj"
               },
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -290,14 +290,14 @@
         }
       }
     },
-    "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj": {
+    "c:\\WORK\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj",
+        "projectUniqueName": "c:\\WORK\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj",
         "projectName": "SocialMedia.Common",
-        "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj",
+        "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Common\\SocialMedia.Common.csproj",
         "packagesPath": "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\",
-        "outputPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Common\\obj\\",
+        "outputPath": "c:\\WORK\\SocialMedia\\SocialMedia.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -322,8 +322,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -371,14 +371,14 @@
         }
       }
     },
-    "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "packagesPath": "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\",
-        "outputPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\obj\\",
+        "outputPath": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

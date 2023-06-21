@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LCefPrg9dyDbAUMZd/jk5iH1Ma8QWPV2h1pQYWsFldcuWX07Q1MCUq9rCBFuRN5UenrYYB9n1TJ2YBsQt6rgQQ==",
+  "dgSpecHash": "8X5z3IAmSI4Mm/3WPY9IUyJEHnjIA6+Z0ABJf6LLJhwbILjcVwPpRurl814f2v4CnwMzPDvs/NcHcSSQXoM+7Q==",
   "success": true,
-  "projectFilePath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj",
+  "projectFilePath": "c:\\WORK\\SocialMedia\\Command\\SocialMedia.Command.Infrastructure\\SocialMedia.Command.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

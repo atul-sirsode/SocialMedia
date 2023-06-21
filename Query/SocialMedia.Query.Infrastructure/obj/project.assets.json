@@ -4973,11 +4973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Query\\SocialMedia.Query.Infrastructure\\SocialMedia.Query.Infrastructure.csproj",
+      "projectUniqueName": "c:\\WORK\\SocialMedia\\Query\\SocialMedia.Query.Infrastructure\\SocialMedia.Query.Infrastructure.csproj",
       "projectName": "SocialMedia.Query.Infrastructure",
-      "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Query\\SocialMedia.Query.Infrastructure\\SocialMedia.Query.Infrastructure.csproj",
+      "projectPath": "c:\\WORK\\SocialMedia\\Query\\SocialMedia.Query.Infrastructure\\SocialMedia.Query.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Atul_Sirsode\\.nuget\\packages\\",
-      "outputPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Query\\SocialMedia.Query.Infrastructure\\obj\\",
+      "outputPath": "c:\\WORK\\SocialMedia\\Query\\SocialMedia.Query.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5002,11 +5002,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\WORK\\VSPROJECTS\\SocialMedia\\Query\\SocialMedia.Query.Domain\\SocialMedia.Query.Domain.csproj": {
-              "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\Query\\SocialMedia.Query.Domain\\SocialMedia.Query.Domain.csproj"
+            "c:\\WORK\\SocialMedia\\Query\\SocialMedia.Query.Domain\\SocialMedia.Query.Domain.csproj": {
+              "projectPath": "c:\\WORK\\SocialMedia\\Query\\SocialMedia.Query.Domain\\SocialMedia.Query.Domain.csproj"
             },
-            "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-              "projectPath": "c:\\WORK\\VSPROJECTS\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+            "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+              "projectPath": "c:\\WORK\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
             }
           }
         }
